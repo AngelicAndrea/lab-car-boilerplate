@@ -13,7 +13,7 @@
 }
 /* imagen de fondo + registro */
 .imagen{
-    background-image: url(../assets/images/taxi.jpg);
+    background-image: url(../images/taxi.jpg);
     height: 100vh;
     background-position: bottom;
     background-size: cover;
@@ -88,7 +88,7 @@
 }
 /* contenedor convertirse en conductor */
 .imagen-2{
-    background-image: url(../assets/images/conduce.jpg);
+    background-image: url(../images/conduce.jpg);
     height: 60vh;
     background-position: center;
     background-size: cover;
